@@ -15,6 +15,8 @@
 ---
 
 ## 👨‍💻 About Me
+- 🎓 Studying at Menoufia University, majoring in IoT (Internet of Things).
+- 🌐 Learning and working with Full Stack .NET Development.
 - 🔥 Flutter Developer specializing in cross-platform mobile apps.
 - 🖥️ Skilled in **Dart**, **Flutter**, **Python**, **SQL**, **Linux**, and **Java**.
 - 🛠️ Passionate about building efficient apps with clean architecture.
