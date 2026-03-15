@@ -48,11 +48,15 @@
 ---
 
 ## 📊 GitHub Stats
-- <img alt="GIF" src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & Mobile Development**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+<img alt="GIF" src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Data Analysis & Data Engineering**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+
 - <img src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Flutter, SQL, Python, or tech stuff**. <br>
+
+- <img src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Data Analysis, SQL, Python, Power BI, or tech stuff**. <br>
+
 - <img src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Saif Sameh](https://t.me/YOUR_TELEGRAM)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love creating cross-platform apps with Flutter!<br>
+
+- &nbsp;&nbsp;<img src="https://github.com/saifsamehelsawy/saifsamehelsawy/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I enjoy transforming raw data into meaningful insights!<br>
 
 <div align="center" >
 <a  href="https://github.com/saifsamehelsawy">
